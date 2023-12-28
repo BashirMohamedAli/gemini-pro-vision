@@ -9,6 +9,7 @@ https://github.com/e-roy/gemini-pro-vision-playground/assets/70700747/e0e80929-2
 ## Getting Started
 https://github.com/e-roy/gemini-pro-vision-playground
 https://github.com/AprilNEA/Gemini-Web
+https://github.com/sinnedpenguin/dennx
 
 Get your Google AI API key [here](https://ai.google.dev/tutorials/setup)
 
